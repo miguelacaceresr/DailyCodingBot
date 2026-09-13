@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-12",
+  "last_run": "2026-09-13",
   "used_ids": [
     1,
     2,
@@ -8,10 +8,13 @@
     6,
     7,
     8,
+    10,
     15,
+    17,
+    19,
     21
   ],
-  "total_solved": 51,
+  "total_solved": 54,
   "history": [
     {
       "date": "2026-08-27",
@@ -452,6 +455,32 @@
           "slug": "trapping-rain-water",
           "difficulty": "Hard",
           "leetcode_url": "https://leetcode.com/problems/trapping-rain-water/"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-13",
+      "problems": [
+        {
+          "id": 10,
+          "title": "Single Number",
+          "slug": "single-number",
+          "difficulty": "Easy",
+          "leetcode_url": "https://leetcode.com/problems/single-number/"
+        },
+        {
+          "id": 17,
+          "title": "Rotate Image",
+          "slug": "rotate-image",
+          "difficulty": "Medium",
+          "leetcode_url": "https://leetcode.com/problems/rotate-image/"
+        },
+        {
+          "id": 19,
+          "title": "Median of Two Sorted Arrays",
+          "slug": "median-of-two-sorted-arrays",
+          "difficulty": "Hard",
+          "leetcode_url": "https://leetcode.com/problems/median-of-two-sorted-arrays/"
         }
       ]
     }

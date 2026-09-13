@@ -23,14 +23,17 @@ Editá `config.json` para cambiar cuántos ejercicios resolver por día y cómo 
 
 ## Estadísticas
 
-- **Ejercicios resueltos:** 51
-- **Días de ejecución:** 17
-- **Última ejecución:** 2026-09-12
+- **Ejercicios resueltos:** 54
+- **Días de ejecución:** 18
+- **Última ejecución:** 2026-09-13
 
 ## Progreso diario
 
 | Fecha | Problema | Dificultad | Solución |
 |---|---|---|---|
+| 2026-09-13 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | [single-number.cs](solutions/Easy/010-single-number.cs) |
+| 2026-09-13 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | [rotate-image.cs](solutions/Medium/017-rotate-image.cs) |
+| 2026-09-13 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [median-of-two-sorted-arrays.cs](solutions/Hard/019-median-of-two-sorted-arrays.cs) |
 | 2026-09-12 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [maximum-subarray.cs](solutions/Easy/007-maximum-subarray.cs) |
 | 2026-09-12 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [longest-palindromic-substring.cs](solutions/Medium/015-longest-palindromic-substring.cs) |
 | 2026-09-12 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [trapping-rain-water.cs](solutions/Hard/021-trapping-rain-water.cs) |
