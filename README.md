@@ -23,14 +23,17 @@ Editá `config.json` para cambiar cuántos ejercicios resolver por día y cómo 
 
 ## Estadísticas
 
-- **Ejercicios resueltos:** 54
-- **Días de ejecución:** 18
-- **Última ejecución:** 2026-09-13
+- **Ejercicios resueltos:** 57
+- **Días de ejecución:** 19
+- **Última ejecución:** 2026-09-14
 
 ## Progreso diario
 
 | Fecha | Problema | Dificultad | Solución |
 |---|---|---|---|
+| 2026-09-14 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [best-time-to-buy-and-sell-stock.cs](solutions/Easy/009-best-time-to-buy-and-sell-stock.cs) |
+| 2026-09-14 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [group-anagrams.cs](solutions/Medium/014-group-anagrams.cs) |
+| 2026-09-14 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [merge-k-sorted-lists.cs](solutions/Hard/020-merge-k-sorted-lists.cs) |
 | 2026-09-13 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | [single-number.cs](solutions/Easy/010-single-number.cs) |
 | 2026-09-13 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | [rotate-image.cs](solutions/Medium/017-rotate-image.cs) |
 | 2026-09-13 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [median-of-two-sorted-arrays.cs](solutions/Hard/019-median-of-two-sorted-arrays.cs) |
