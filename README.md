@@ -23,14 +23,17 @@ Editá `config.json` para cambiar cuántos ejercicios resolver por día y cómo 
 
 ## Estadísticas
 
-- **Ejercicios resueltos:** 57
-- **Días de ejecución:** 19
-- **Última ejecución:** 2026-09-14
+- **Ejercicios resueltos:** 60
+- **Días de ejecución:** 20
+- **Última ejecución:** 2026-09-15
 
 ## Progreso diario
 
 | Fecha | Problema | Dificultad | Solución |
 |---|---|---|---|
+| 2026-09-15 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [valid-parentheses.cs](solutions/Easy/004-valid-parentheses.cs) |
+| 2026-09-15 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [product-of-array-except-self.cs](solutions/Medium/016-product-of-array-except-self.cs) |
+| 2026-09-15 | [N-Queens](https://leetcode.com/problems/n-queens/) | Hard | [n-queens.cs](solutions/Hard/022-n-queens.cs) |
 | 2026-09-14 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [best-time-to-buy-and-sell-stock.cs](solutions/Easy/009-best-time-to-buy-and-sell-stock.cs) |
 | 2026-09-14 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [group-anagrams.cs](solutions/Medium/014-group-anagrams.cs) |
 | 2026-09-14 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [merge-k-sorted-lists.cs](solutions/Hard/020-merge-k-sorted-lists.cs) |
