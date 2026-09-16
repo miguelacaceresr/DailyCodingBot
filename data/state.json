@@ -1,26 +1,15 @@
 {
-  "last_run": "2026-09-15",
+  "last_run": "2026-09-16",
   "used_ids": [
-    1,
     2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
     14,
     15,
     16,
     17,
-    19,
-    20,
-    21,
+    18,
     22
   ],
-  "total_solved": 60,
+  "total_solved": 63,
   "history": [
     {
       "date": "2026-08-27",
@@ -532,6 +521,32 @@
           "slug": "product-of-array-except-self",
           "difficulty": "Medium",
           "leetcode_url": "https://leetcode.com/problems/product-of-array-except-self/"
+        },
+        {
+          "id": 22,
+          "title": "N-Queens",
+          "slug": "n-queens",
+          "difficulty": "Hard",
+          "leetcode_url": "https://leetcode.com/problems/n-queens/"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "problems": [
+        {
+          "id": 2,
+          "title": "Reverse Integer",
+          "slug": "reverse-integer",
+          "difficulty": "Easy",
+          "leetcode_url": "https://leetcode.com/problems/reverse-integer/"
+        },
+        {
+          "id": 18,
+          "title": "Coin Change",
+          "slug": "coin-change",
+          "difficulty": "Medium",
+          "leetcode_url": "https://leetcode.com/problems/coin-change/"
         },
         {
           "id": 22,
