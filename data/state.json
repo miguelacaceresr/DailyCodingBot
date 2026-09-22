@@ -1,18 +1,21 @@
 {
-  "last_run": "2026-09-21",
+  "last_run": "2026-09-22",
   "used_ids": [
     1,
     2,
     4,
     6,
+    7,
     9,
     10,
     11,
     13,
+    17,
     20,
-    21
+    21,
+    22
   ],
-  "total_solved": 78,
+  "total_solved": 81,
   "history": [
     {
       "date": "2026-08-27",
@@ -687,6 +690,32 @@
           "slug": "trapping-rain-water",
           "difficulty": "Hard",
           "leetcode_url": "https://leetcode.com/problems/trapping-rain-water/"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-22",
+      "problems": [
+        {
+          "id": 7,
+          "title": "Maximum Subarray",
+          "slug": "maximum-subarray",
+          "difficulty": "Easy",
+          "leetcode_url": "https://leetcode.com/problems/maximum-subarray/"
+        },
+        {
+          "id": 17,
+          "title": "Rotate Image",
+          "slug": "rotate-image",
+          "difficulty": "Medium",
+          "leetcode_url": "https://leetcode.com/problems/rotate-image/"
+        },
+        {
+          "id": 22,
+          "title": "N-Queens",
+          "slug": "n-queens",
+          "difficulty": "Hard",
+          "leetcode_url": "https://leetcode.com/problems/n-queens/"
         }
       ]
     }
