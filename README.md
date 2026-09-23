@@ -23,14 +23,17 @@ Editá `config.json` para cambiar cuántos ejercicios resolver por día y cómo 
 
 ## Estadísticas
 
-- **Ejercicios resueltos:** 81
-- **Días de ejecución:** 27
-- **Última ejecución:** 2026-09-22
+- **Ejercicios resueltos:** 84
+- **Días de ejecución:** 28
+- **Última ejecución:** 2026-09-23
 
 ## Progreso diario
 
 | Fecha | Problema | Dificultad | Solución |
 |---|---|---|---|
+| 2026-09-23 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [merge-two-sorted-lists.cs](solutions/Easy/005-merge-two-sorted-lists.cs) |
+| 2026-09-23 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [coin-change.cs](solutions/Medium/018-coin-change.cs) |
+| 2026-09-23 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [median-of-two-sorted-arrays.cs](solutions/Hard/019-median-of-two-sorted-arrays.cs) |
 | 2026-09-22 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [maximum-subarray.cs](solutions/Easy/007-maximum-subarray.cs) |
 | 2026-09-22 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | [rotate-image.cs](solutions/Medium/017-rotate-image.cs) |
 | 2026-09-22 | [N-Queens](https://leetcode.com/problems/n-queens/) | Hard | [n-queens.cs](solutions/Hard/022-n-queens.cs) |

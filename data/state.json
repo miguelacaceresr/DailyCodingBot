@@ -1,9 +1,10 @@
 {
-  "last_run": "2026-09-22",
+  "last_run": "2026-09-23",
   "used_ids": [
     1,
     2,
     4,
+    5,
     6,
     7,
     9,
@@ -11,11 +12,13 @@
     11,
     13,
     17,
+    18,
+    19,
     20,
     21,
     22
   ],
-  "total_solved": 81,
+  "total_solved": 84,
   "history": [
     {
       "date": "2026-08-27",
@@ -716,6 +719,32 @@
           "slug": "n-queens",
           "difficulty": "Hard",
           "leetcode_url": "https://leetcode.com/problems/n-queens/"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "problems": [
+        {
+          "id": 5,
+          "title": "Merge Two Sorted Lists",
+          "slug": "merge-two-sorted-lists",
+          "difficulty": "Easy",
+          "leetcode_url": "https://leetcode.com/problems/merge-two-sorted-lists/"
+        },
+        {
+          "id": 18,
+          "title": "Coin Change",
+          "slug": "coin-change",
+          "difficulty": "Medium",
+          "leetcode_url": "https://leetcode.com/problems/coin-change/"
+        },
+        {
+          "id": 19,
+          "title": "Median of Two Sorted Arrays",
+          "slug": "median-of-two-sorted-arrays",
+          "difficulty": "Hard",
+          "leetcode_url": "https://leetcode.com/problems/median-of-two-sorted-arrays/"
         }
       ]
     }
