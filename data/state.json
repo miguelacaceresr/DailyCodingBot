@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-24",
+  "last_run": "2026-09-25",
   "used_ids": [
     1,
     2,
@@ -8,16 +8,19 @@
     5,
     6,
     7,
+    8,
     9,
     10,
     11,
+    12,
     13,
     16,
     17,
     18,
-    20
+    20,
+    22
   ],
-  "total_solved": 87,
+  "total_solved": 90,
   "history": [
     {
       "date": "2026-08-27",
@@ -770,6 +773,32 @@
           "slug": "merge-k-sorted-lists",
           "difficulty": "Hard",
           "leetcode_url": "https://leetcode.com/problems/merge-k-sorted-lists/"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "problems": [
+        {
+          "id": 8,
+          "title": "Climbing Stairs",
+          "slug": "climbing-stairs",
+          "difficulty": "Easy",
+          "leetcode_url": "https://leetcode.com/problems/climbing-stairs/"
+        },
+        {
+          "id": 12,
+          "title": "Longest Substring Without Repeating Characters",
+          "slug": "longest-substring-without-repeating-characters",
+          "difficulty": "Medium",
+          "leetcode_url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+        },
+        {
+          "id": 22,
+          "title": "N-Queens",
+          "slug": "n-queens",
+          "difficulty": "Hard",
+          "leetcode_url": "https://leetcode.com/problems/n-queens/"
         }
       ]
     }
