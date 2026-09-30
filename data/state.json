@@ -1,16 +1,19 @@
 {
-  "last_run": "2026-09-29",
+  "last_run": "2026-09-30",
   "used_ids": [
+    4,
     7,
     8,
     9,
     10,
+    12,
     13,
     14,
+    20,
     21,
     22
   ],
-  "total_solved": 102,
+  "total_solved": 105,
   "history": [
     {
       "date": "2026-08-27",
@@ -893,6 +896,32 @@
           "slug": "trapping-rain-water",
           "difficulty": "Hard",
           "leetcode_url": "https://leetcode.com/problems/trapping-rain-water/"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "problems": [
+        {
+          "id": 4,
+          "title": "Valid Parentheses",
+          "slug": "valid-parentheses",
+          "difficulty": "Easy",
+          "leetcode_url": "https://leetcode.com/problems/valid-parentheses/"
+        },
+        {
+          "id": 12,
+          "title": "Longest Substring Without Repeating Characters",
+          "slug": "longest-substring-without-repeating-characters",
+          "difficulty": "Medium",
+          "leetcode_url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+        },
+        {
+          "id": 20,
+          "title": "Merge k Sorted Lists",
+          "slug": "merge-k-sorted-lists",
+          "difficulty": "Hard",
+          "leetcode_url": "https://leetcode.com/problems/merge-k-sorted-lists/"
         }
       ]
     }

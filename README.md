@@ -23,14 +23,17 @@ Editá `config.json` para cambiar cuántos ejercicios resolver por día y cómo 
 
 ## Estadísticas
 
-- **Ejercicios resueltos:** 102
-- **Días de ejecución:** 34
-- **Última ejecución:** 2026-09-29
+- **Ejercicios resueltos:** 105
+- **Días de ejecución:** 35
+- **Última ejecución:** 2026-09-30
 
 ## Progreso diario
 
 | Fecha | Problema | Dificultad | Solución |
 |---|---|---|---|
+| 2026-09-30 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [valid-parentheses.cs](solutions/Easy/004-valid-parentheses.cs) |
+| 2026-09-30 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [longest-substring-without-repeating-characters.cs](solutions/Medium/012-longest-substring-without-repeating-characters.cs) |
+| 2026-09-30 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [merge-k-sorted-lists.cs](solutions/Hard/020-merge-k-sorted-lists.cs) |
 | 2026-09-29 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | [single-number.cs](solutions/Easy/010-single-number.cs) |
 | 2026-09-29 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | [3sum.cs](solutions/Medium/013-3sum.cs) |
 | 2026-09-29 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [trapping-rain-water.cs](solutions/Hard/021-trapping-rain-water.cs) |
