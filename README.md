@@ -23,14 +23,17 @@ Editá `config.json` para cambiar cuántos ejercicios resolver por día y cómo 
 
 ## Estadísticas
 
-- **Ejercicios resueltos:** 108
-- **Días de ejecución:** 36
-- **Última ejecución:** 2026-10-01
+- **Ejercicios resueltos:** 111
+- **Días de ejecución:** 37
+- **Última ejecución:** 2026-10-02
 
 ## Progreso diario
 
 | Fecha | Problema | Dificultad | Solución |
 |---|---|---|---|
+| 2026-10-02 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [merge-two-sorted-lists.cs](solutions/Easy/005-merge-two-sorted-lists.cs) |
+| 2026-10-02 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [product-of-array-except-self.cs](solutions/Medium/016-product-of-array-except-self.cs) |
+| 2026-10-02 | [N-Queens](https://leetcode.com/problems/n-queens/) | Hard | [n-queens.cs](solutions/Hard/022-n-queens.cs) |
 | 2026-10-01 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [palindrome-number.cs](solutions/Easy/003-palindrome-number.cs) |
 | 2026-10-01 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [add-two-numbers.cs](solutions/Medium/011-add-two-numbers.cs) |
 | 2026-10-01 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [median-of-two-sorted-arrays.cs](solutions/Hard/019-median-of-two-sorted-arrays.cs) |
