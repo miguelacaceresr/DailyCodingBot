@@ -1,6 +1,7 @@
 {
-  "last_run": "2026-10-03",
+  "last_run": "2026-10-04",
   "used_ids": [
+    1,
     2,
     3,
     4,
@@ -13,12 +14,14 @@
     12,
     13,
     14,
+    15,
     16,
     17,
+    19,
     20,
     22
   ],
-  "total_solved": 114,
+  "total_solved": 117,
   "history": [
     {
       "date": "2026-08-27",
@@ -1005,6 +1008,32 @@
           "slug": "merge-k-sorted-lists",
           "difficulty": "Hard",
           "leetcode_url": "https://leetcode.com/problems/merge-k-sorted-lists/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "problems": [
+        {
+          "id": 1,
+          "title": "Two Sum",
+          "slug": "two-sum",
+          "difficulty": "Easy",
+          "leetcode_url": "https://leetcode.com/problems/two-sum/"
+        },
+        {
+          "id": 15,
+          "title": "Longest Palindromic Substring",
+          "slug": "longest-palindromic-substring",
+          "difficulty": "Medium",
+          "leetcode_url": "https://leetcode.com/problems/longest-palindromic-substring/"
+        },
+        {
+          "id": 19,
+          "title": "Median of Two Sorted Arrays",
+          "slug": "median-of-two-sorted-arrays",
+          "difficulty": "Hard",
+          "leetcode_url": "https://leetcode.com/problems/median-of-two-sorted-arrays/"
         }
       ]
     }

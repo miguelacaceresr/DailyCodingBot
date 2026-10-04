@@ -23,14 +23,17 @@ Editá `config.json` para cambiar cuántos ejercicios resolver por día y cómo 
 
 ## Estadísticas
 
-- **Ejercicios resueltos:** 114
-- **Días de ejecución:** 38
-- **Última ejecución:** 2026-10-03
+- **Ejercicios resueltos:** 117
+- **Días de ejecución:** 39
+- **Última ejecución:** 2026-10-04
 
 ## Progreso diario
 
 | Fecha | Problema | Dificultad | Solución |
 |---|---|---|---|
+| 2026-10-04 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [two-sum.cs](solutions/Easy/001-two-sum.cs) |
+| 2026-10-04 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [longest-palindromic-substring.cs](solutions/Medium/015-longest-palindromic-substring.cs) |
+| 2026-10-04 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [median-of-two-sorted-arrays.cs](solutions/Hard/019-median-of-two-sorted-arrays.cs) |
 | 2026-10-03 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Easy | [reverse-integer.cs](solutions/Easy/002-reverse-integer.cs) |
 | 2026-10-03 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | [rotate-image.cs](solutions/Medium/017-rotate-image.cs) |
 | 2026-10-03 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [merge-k-sorted-lists.cs](solutions/Hard/020-merge-k-sorted-lists.cs) |
