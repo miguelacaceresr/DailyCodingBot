@@ -1,14 +1,17 @@
 {
-  "last_run": "2026-10-07",
+  "last_run": "2026-10-08",
   "used_ids": [
     2,
     6,
+    7,
+    11,
     14,
     18,
+    19,
     20,
     21
   ],
-  "total_solved": 126,
+  "total_solved": 129,
   "history": [
     {
       "date": "2026-08-27",
@@ -1099,6 +1102,32 @@
           "slug": "merge-k-sorted-lists",
           "difficulty": "Hard",
           "leetcode_url": "https://leetcode.com/problems/merge-k-sorted-lists/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "problems": [
+        {
+          "id": 7,
+          "title": "Maximum Subarray",
+          "slug": "maximum-subarray",
+          "difficulty": "Easy",
+          "leetcode_url": "https://leetcode.com/problems/maximum-subarray/"
+        },
+        {
+          "id": 11,
+          "title": "Add Two Numbers",
+          "slug": "add-two-numbers",
+          "difficulty": "Medium",
+          "leetcode_url": "https://leetcode.com/problems/add-two-numbers/"
+        },
+        {
+          "id": 19,
+          "title": "Median of Two Sorted Arrays",
+          "slug": "median-of-two-sorted-arrays",
+          "difficulty": "Hard",
+          "leetcode_url": "https://leetcode.com/problems/median-of-two-sorted-arrays/"
         }
       ]
     }
