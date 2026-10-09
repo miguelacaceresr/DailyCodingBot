@@ -1,17 +1,20 @@
 {
-  "last_run": "2026-10-08",
+  "last_run": "2026-10-09",
   "used_ids": [
     2,
     6,
     7,
+    8,
     11,
+    13,
     14,
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
-  "total_solved": 129,
+  "total_solved": 132,
   "history": [
     {
       "date": "2026-08-27",
@@ -1128,6 +1131,32 @@
           "slug": "median-of-two-sorted-arrays",
           "difficulty": "Hard",
           "leetcode_url": "https://leetcode.com/problems/median-of-two-sorted-arrays/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "problems": [
+        {
+          "id": 8,
+          "title": "Climbing Stairs",
+          "slug": "climbing-stairs",
+          "difficulty": "Easy",
+          "leetcode_url": "https://leetcode.com/problems/climbing-stairs/"
+        },
+        {
+          "id": 13,
+          "title": "3Sum",
+          "slug": "3sum",
+          "difficulty": "Medium",
+          "leetcode_url": "https://leetcode.com/problems/3sum/"
+        },
+        {
+          "id": 22,
+          "title": "N-Queens",
+          "slug": "n-queens",
+          "difficulty": "Hard",
+          "leetcode_url": "https://leetcode.com/problems/n-queens/"
         }
       ]
     }
