@@ -23,14 +23,17 @@ Editá `config.json` para cambiar cuántos ejercicios resolver por día y cómo 
 
 ## Estadísticas
 
-- **Ejercicios resueltos:** 132
-- **Días de ejecución:** 44
-- **Última ejecución:** 2026-10-09
+- **Ejercicios resueltos:** 135
+- **Días de ejecución:** 45
+- **Última ejecución:** 2026-10-10
 
 ## Progreso diario
 
 | Fecha | Problema | Dificultad | Solución |
 |---|---|---|---|
+| 2026-10-10 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | [single-number.cs](solutions/Easy/010-single-number.cs) |
+| 2026-10-10 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [longest-substring-without-repeating-characters.cs](solutions/Medium/012-longest-substring-without-repeating-characters.cs) |
+| 2026-10-10 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [median-of-two-sorted-arrays.cs](solutions/Hard/019-median-of-two-sorted-arrays.cs) |
 | 2026-10-09 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [climbing-stairs.cs](solutions/Easy/008-climbing-stairs.cs) |
 | 2026-10-09 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | [3sum.cs](solutions/Medium/013-3sum.cs) |
 | 2026-10-09 | [N-Queens](https://leetcode.com/problems/n-queens/) | Hard | [n-queens.cs](solutions/Hard/022-n-queens.cs) |
