@@ -1,8 +1,9 @@
 {
-  "last_run": "2026-10-11",
+  "last_run": "2026-10-12",
   "used_ids": [
     1,
     2,
+    3,
     6,
     7,
     8,
@@ -12,11 +13,13 @@
     13,
     14,
     15,
+    17,
     18,
     19,
-    21
+    21,
+    22
   ],
-  "total_solved": 138,
+  "total_solved": 141,
   "history": [
     {
       "date": "2026-08-27",
@@ -1211,6 +1214,32 @@
           "slug": "trapping-rain-water",
           "difficulty": "Hard",
           "leetcode_url": "https://leetcode.com/problems/trapping-rain-water/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "problems": [
+        {
+          "id": 3,
+          "title": "Palindrome Number",
+          "slug": "palindrome-number",
+          "difficulty": "Easy",
+          "leetcode_url": "https://leetcode.com/problems/palindrome-number/"
+        },
+        {
+          "id": 17,
+          "title": "Rotate Image",
+          "slug": "rotate-image",
+          "difficulty": "Medium",
+          "leetcode_url": "https://leetcode.com/problems/rotate-image/"
+        },
+        {
+          "id": 22,
+          "title": "N-Queens",
+          "slug": "n-queens",
+          "difficulty": "Hard",
+          "leetcode_url": "https://leetcode.com/problems/n-queens/"
         }
       ]
     }

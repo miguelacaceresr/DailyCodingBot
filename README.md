@@ -23,14 +23,17 @@ Editá `config.json` para cambiar cuántos ejercicios resolver por día y cómo 
 
 ## Estadísticas
 
-- **Ejercicios resueltos:** 138
-- **Días de ejecución:** 46
-- **Última ejecución:** 2026-10-11
+- **Ejercicios resueltos:** 141
+- **Días de ejecución:** 47
+- **Última ejecución:** 2026-10-12
 
 ## Progreso diario
 
 | Fecha | Problema | Dificultad | Solución |
 |---|---|---|---|
+| 2026-10-12 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [palindrome-number.cs](solutions/Easy/003-palindrome-number.cs) |
+| 2026-10-12 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | [rotate-image.cs](solutions/Medium/017-rotate-image.cs) |
+| 2026-10-12 | [N-Queens](https://leetcode.com/problems/n-queens/) | Hard | [n-queens.cs](solutions/Hard/022-n-queens.cs) |
 | 2026-10-11 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [two-sum.cs](solutions/Easy/001-two-sum.cs) |
 | 2026-10-11 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [longest-palindromic-substring.cs](solutions/Medium/015-longest-palindromic-substring.cs) |
 | 2026-10-11 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [trapping-rain-water.cs](solutions/Hard/021-trapping-rain-water.cs) |
