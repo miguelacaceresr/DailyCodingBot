@@ -23,14 +23,17 @@ Editá `config.json` para cambiar cuántos ejercicios resolver por día y cómo 
 
 ## Estadísticas
 
-- **Ejercicios resueltos:** 141
-- **Días de ejecución:** 47
-- **Última ejecución:** 2026-10-12
+- **Ejercicios resueltos:** 144
+- **Días de ejecución:** 48
+- **Última ejecución:** 2026-10-13
 
 ## Progreso diario
 
 | Fecha | Problema | Dificultad | Solución |
 |---|---|---|---|
+| 2026-10-13 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [valid-parentheses.cs](solutions/Easy/004-valid-parentheses.cs) |
+| 2026-10-13 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [product-of-array-except-self.cs](solutions/Medium/016-product-of-array-except-self.cs) |
+| 2026-10-13 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [merge-k-sorted-lists.cs](solutions/Hard/020-merge-k-sorted-lists.cs) |
 | 2026-10-12 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [palindrome-number.cs](solutions/Easy/003-palindrome-number.cs) |
 | 2026-10-12 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | [rotate-image.cs](solutions/Medium/017-rotate-image.cs) |
 | 2026-10-12 | [N-Queens](https://leetcode.com/problems/n-queens/) | Hard | [n-queens.cs](solutions/Hard/022-n-queens.cs) |
