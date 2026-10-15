@@ -23,14 +23,17 @@ Editá `config.json` para cambiar cuántos ejercicios resolver por día y cómo 
 
 ## Estadísticas
 
-- **Ejercicios resueltos:** 147
-- **Días de ejecución:** 49
-- **Última ejecución:** 2026-10-14
+- **Ejercicios resueltos:** 150
+- **Días de ejecución:** 50
+- **Última ejecución:** 2026-10-15
 
 ## Progreso diario
 
 | Fecha | Problema | Dificultad | Solución |
 |---|---|---|---|
+| 2026-10-15 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [merge-two-sorted-lists.cs](solutions/Easy/005-merge-two-sorted-lists.cs) |
+| 2026-10-15 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [add-two-numbers.cs](solutions/Medium/011-add-two-numbers.cs) |
+| 2026-10-15 | [N-Queens](https://leetcode.com/problems/n-queens/) | Hard | [n-queens.cs](solutions/Hard/022-n-queens.cs) |
 | 2026-10-14 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [best-time-to-buy-and-sell-stock.cs](solutions/Easy/009-best-time-to-buy-and-sell-stock.cs) |
 | 2026-10-14 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | [rotate-image.cs](solutions/Medium/017-rotate-image.cs) |
 | 2026-10-14 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [trapping-rain-water.cs](solutions/Hard/021-trapping-rain-water.cs) |

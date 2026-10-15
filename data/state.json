@@ -1,19 +1,22 @@
 {
-  "last_run": "2026-10-14",
+  "last_run": "2026-10-15",
   "used_ids": [
     1,
     2,
     3,
     4,
+    5,
     6,
     7,
     8,
     9,
     10,
+    11,
     17,
-    21
+    21,
+    22
   ],
-  "total_solved": 147,
+  "total_solved": 150,
   "history": [
     {
       "date": "2026-08-27",
@@ -1286,6 +1289,32 @@
           "slug": "trapping-rain-water",
           "difficulty": "Hard",
           "leetcode_url": "https://leetcode.com/problems/trapping-rain-water/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "problems": [
+        {
+          "id": 5,
+          "title": "Merge Two Sorted Lists",
+          "slug": "merge-two-sorted-lists",
+          "difficulty": "Easy",
+          "leetcode_url": "https://leetcode.com/problems/merge-two-sorted-lists/"
+        },
+        {
+          "id": 11,
+          "title": "Add Two Numbers",
+          "slug": "add-two-numbers",
+          "difficulty": "Medium",
+          "leetcode_url": "https://leetcode.com/problems/add-two-numbers/"
+        },
+        {
+          "id": 22,
+          "title": "N-Queens",
+          "slug": "n-queens",
+          "difficulty": "Hard",
+          "leetcode_url": "https://leetcode.com/problems/n-queens/"
         }
       ]
     }
