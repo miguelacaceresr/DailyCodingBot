@@ -23,14 +23,17 @@ Editá `config.json` para cambiar cuántos ejercicios resolver por día y cómo 
 
 ## Estadísticas
 
-- **Ejercicios resueltos:** 156
-- **Días de ejecución:** 52
-- **Última ejecución:** 2026-10-17
+- **Ejercicios resueltos:** 159
+- **Días de ejecución:** 53
+- **Última ejecución:** 2026-10-18
 
 ## Progreso diario
 
 | Fecha | Problema | Dificultad | Solución |
 |---|---|---|---|
+| 2026-10-18 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [two-sum.cs](solutions/Easy/001-two-sum.cs) |
+| 2026-10-18 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [group-anagrams.cs](solutions/Medium/014-group-anagrams.cs) |
+| 2026-10-18 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [trapping-rain-water.cs](solutions/Hard/021-trapping-rain-water.cs) |
 | 2026-10-17 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [valid-parentheses.cs](solutions/Easy/004-valid-parentheses.cs) |
 | 2026-10-17 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | [3sum.cs](solutions/Medium/013-3sum.cs) |
 | 2026-10-17 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [merge-k-sorted-lists.cs](solutions/Hard/020-merge-k-sorted-lists.cs) |
