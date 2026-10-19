@@ -1,17 +1,20 @@
 {
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "used_ids": [
     1,
     4,
+    8,
     10,
     11,
     13,
     14,
+    15,
     16,
     17,
+    20,
     21
   ],
-  "total_solved": 159,
+  "total_solved": 162,
   "history": [
     {
       "date": "2026-08-27",
@@ -1388,6 +1391,32 @@
           "slug": "trapping-rain-water",
           "difficulty": "Hard",
           "leetcode_url": "https://leetcode.com/problems/trapping-rain-water/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "problems": [
+        {
+          "id": 8,
+          "title": "Climbing Stairs",
+          "slug": "climbing-stairs",
+          "difficulty": "Easy",
+          "leetcode_url": "https://leetcode.com/problems/climbing-stairs/"
+        },
+        {
+          "id": 15,
+          "title": "Longest Palindromic Substring",
+          "slug": "longest-palindromic-substring",
+          "difficulty": "Medium",
+          "leetcode_url": "https://leetcode.com/problems/longest-palindromic-substring/"
+        },
+        {
+          "id": 20,
+          "title": "Merge k Sorted Lists",
+          "slug": "merge-k-sorted-lists",
+          "difficulty": "Hard",
+          "leetcode_url": "https://leetcode.com/problems/merge-k-sorted-lists/"
         }
       ]
     }
