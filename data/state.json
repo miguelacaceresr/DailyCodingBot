@@ -1,15 +1,18 @@
 {
-  "last_run": "2026-10-26",
+  "last_run": "2026-10-27",
   "used_ids": [
+    3,
     6,
     11,
     12,
     13,
     14,
     17,
+    18,
+    19,
     22
   ],
-  "total_solved": 183,
+  "total_solved": 186,
   "history": [
     {
       "date": "2026-08-27",
@@ -1594,6 +1597,32 @@
           "slug": "n-queens",
           "difficulty": "Hard",
           "leetcode_url": "https://leetcode.com/problems/n-queens/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "problems": [
+        {
+          "id": 3,
+          "title": "Palindrome Number",
+          "slug": "palindrome-number",
+          "difficulty": "Easy",
+          "leetcode_url": "https://leetcode.com/problems/palindrome-number/"
+        },
+        {
+          "id": 18,
+          "title": "Coin Change",
+          "slug": "coin-change",
+          "difficulty": "Medium",
+          "leetcode_url": "https://leetcode.com/problems/coin-change/"
+        },
+        {
+          "id": 19,
+          "title": "Median of Two Sorted Arrays",
+          "slug": "median-of-two-sorted-arrays",
+          "difficulty": "Hard",
+          "leetcode_url": "https://leetcode.com/problems/median-of-two-sorted-arrays/"
         }
       ]
     }
