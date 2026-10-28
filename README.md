@@ -23,14 +23,17 @@ Editá `config.json` para cambiar cuántos ejercicios resolver por día y cómo 
 
 ## Estadísticas
 
-- **Ejercicios resueltos:** 186
-- **Días de ejecución:** 62
-- **Última ejecución:** 2026-10-27
+- **Ejercicios resueltos:** 189
+- **Días de ejecución:** 63
+- **Última ejecución:** 2026-10-28
 
 ## Progreso diario
 
 | Fecha | Problema | Dificultad | Solución |
 |---|---|---|---|
+| 2026-10-28 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Easy | [reverse-integer.cs](solutions/Easy/002-reverse-integer.cs) |
+| 2026-10-28 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [longest-palindromic-substring.cs](solutions/Medium/015-longest-palindromic-substring.cs) |
+| 2026-10-28 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [merge-k-sorted-lists.cs](solutions/Hard/020-merge-k-sorted-lists.cs) |
 | 2026-10-27 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [palindrome-number.cs](solutions/Easy/003-palindrome-number.cs) |
 | 2026-10-27 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [coin-change.cs](solutions/Medium/018-coin-change.cs) |
 | 2026-10-27 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [median-of-two-sorted-arrays.cs](solutions/Hard/019-median-of-two-sorted-arrays.cs) |
@@ -208,6 +211,3 @@ Editá `config.json` para cambiar cuántos ejercicios resolver por día y cómo 
 | 2026-08-30 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | [single-number.cs](solutions/Easy/010-single-number.cs) |
 | 2026-08-30 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | [rotate-image.cs](solutions/Medium/017-rotate-image.cs) |
 | 2026-08-30 | [N-Queens](https://leetcode.com/problems/n-queens/) | Hard | [n-queens.cs](solutions/Hard/022-n-queens.cs) |
-| 2026-08-29 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [valid-parentheses.cs](solutions/Easy/004-valid-parentheses.cs) |
-| 2026-08-29 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [group-anagrams.cs](solutions/Medium/014-group-anagrams.cs) |
-| 2026-08-29 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [merge-k-sorted-lists.cs](solutions/Hard/020-merge-k-sorted-lists.cs) |
