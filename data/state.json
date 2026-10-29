@@ -1,6 +1,7 @@
 {
-  "last_run": "2026-10-28",
+  "last_run": "2026-10-29",
   "used_ids": [
+    1,
     2,
     3,
     6,
@@ -9,13 +10,15 @@
     13,
     14,
     15,
+    16,
     17,
     18,
     19,
     20,
+    21,
     22
   ],
-  "total_solved": 189,
+  "total_solved": 192,
   "history": [
     {
       "date": "2026-08-27",
@@ -1652,6 +1655,32 @@
           "slug": "merge-k-sorted-lists",
           "difficulty": "Hard",
           "leetcode_url": "https://leetcode.com/problems/merge-k-sorted-lists/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "problems": [
+        {
+          "id": 1,
+          "title": "Two Sum",
+          "slug": "two-sum",
+          "difficulty": "Easy",
+          "leetcode_url": "https://leetcode.com/problems/two-sum/"
+        },
+        {
+          "id": 16,
+          "title": "Product of Array Except Self",
+          "slug": "product-of-array-except-self",
+          "difficulty": "Medium",
+          "leetcode_url": "https://leetcode.com/problems/product-of-array-except-self/"
+        },
+        {
+          "id": 21,
+          "title": "Trapping Rain Water",
+          "slug": "trapping-rain-water",
+          "difficulty": "Hard",
+          "leetcode_url": "https://leetcode.com/problems/trapping-rain-water/"
         }
       ]
     }
