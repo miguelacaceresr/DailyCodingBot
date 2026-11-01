@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-31",
+  "last_run": "2026-11-01",
   "used_ids": [
     1,
     2,
@@ -7,12 +7,15 @@
     4,
     5,
     6,
+    10,
     13,
     16,
+    17,
     20,
+    21,
     22
   ],
-  "total_solved": 198,
+  "total_solved": 201,
   "history": [
     {
       "date": "2026-08-27",
@@ -1727,6 +1730,32 @@
           "slug": "n-queens",
           "difficulty": "Hard",
           "leetcode_url": "https://leetcode.com/problems/n-queens/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "problems": [
+        {
+          "id": 10,
+          "title": "Single Number",
+          "slug": "single-number",
+          "difficulty": "Easy",
+          "leetcode_url": "https://leetcode.com/problems/single-number/"
+        },
+        {
+          "id": 17,
+          "title": "Rotate Image",
+          "slug": "rotate-image",
+          "difficulty": "Medium",
+          "leetcode_url": "https://leetcode.com/problems/rotate-image/"
+        },
+        {
+          "id": 21,
+          "title": "Trapping Rain Water",
+          "slug": "trapping-rain-water",
+          "difficulty": "Hard",
+          "leetcode_url": "https://leetcode.com/problems/trapping-rain-water/"
         }
       ]
     }
