@@ -23,14 +23,17 @@ Editá `config.json` para cambiar cuántos ejercicios resolver por día y cómo 
 
 ## Estadísticas
 
-- **Ejercicios resueltos:** 216
-- **Días de ejecución:** 72
-- **Última ejecución:** 2026-11-06
+- **Ejercicios resueltos:** 219
+- **Días de ejecución:** 73
+- **Última ejecución:** 2026-11-07
 
 ## Progreso diario
 
 | Fecha | Problema | Dificultad | Solución |
 |---|---|---|---|
+| 2026-11-07 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [maximum-subarray.cs](solutions/Easy/007-maximum-subarray.cs) |
+| 2026-11-07 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [coin-change.cs](solutions/Medium/018-coin-change.cs) |
+| 2026-11-07 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [trapping-rain-water.cs](solutions/Hard/021-trapping-rain-water.cs) |
 | 2026-11-06 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [remove-duplicates-from-sorted-array.cs](solutions/Easy/006-remove-duplicates-from-sorted-array.cs) |
 | 2026-11-06 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [add-two-numbers.cs](solutions/Medium/011-add-two-numbers.cs) |
 | 2026-11-06 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [median-of-two-sorted-arrays.cs](solutions/Hard/019-median-of-two-sorted-arrays.cs) |
@@ -208,6 +211,3 @@ Editá `config.json` para cambiar cuántos ejercicios resolver por día y cómo 
 | 2026-09-09 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [climbing-stairs.cs](solutions/Easy/008-climbing-stairs.cs) |
 | 2026-09-09 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | [3sum.cs](solutions/Medium/013-3sum.cs) |
 | 2026-09-09 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [merge-k-sorted-lists.cs](solutions/Hard/020-merge-k-sorted-lists.cs) |
-| 2026-09-08 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [remove-duplicates-from-sorted-array.cs](solutions/Easy/006-remove-duplicates-from-sorted-array.cs) |
-| 2026-09-08 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | [rotate-image.cs](solutions/Medium/017-rotate-image.cs) |
-| 2026-09-08 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [trapping-rain-water.cs](solutions/Hard/021-trapping-rain-water.cs) |
