@@ -23,14 +23,17 @@ Editá `config.json` para cambiar cuántos ejercicios resolver por día y cómo 
 
 ## Estadísticas
 
-- **Ejercicios resueltos:** 225
-- **Días de ejecución:** 75
-- **Última ejecución:** 2026-11-09
+- **Ejercicios resueltos:** 228
+- **Días de ejecución:** 76
+- **Última ejecución:** 2026-11-10
 
 ## Progreso diario
 
 | Fecha | Problema | Dificultad | Solución |
 |---|---|---|---|
+| 2026-11-10 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Easy | [reverse-integer.cs](solutions/Easy/002-reverse-integer.cs) |
+| 2026-11-10 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | [3sum.cs](solutions/Medium/013-3sum.cs) |
+| 2026-11-10 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [median-of-two-sorted-arrays.cs](solutions/Hard/019-median-of-two-sorted-arrays.cs) |
 | 2026-11-09 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [climbing-stairs.cs](solutions/Easy/008-climbing-stairs.cs) |
 | 2026-11-09 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [longest-palindromic-substring.cs](solutions/Medium/015-longest-palindromic-substring.cs) |
 | 2026-11-09 | [N-Queens](https://leetcode.com/problems/n-queens/) | Hard | [n-queens.cs](solutions/Hard/022-n-queens.cs) |
@@ -208,6 +211,3 @@ Editá `config.json` para cambiar cuántos ejercicios resolver por día y cómo 
 | 2026-09-12 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [maximum-subarray.cs](solutions/Easy/007-maximum-subarray.cs) |
 | 2026-09-12 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [longest-palindromic-substring.cs](solutions/Medium/015-longest-palindromic-substring.cs) |
 | 2026-09-12 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [trapping-rain-water.cs](solutions/Hard/021-trapping-rain-water.cs) |
-| 2026-09-11 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [two-sum.cs](solutions/Easy/001-two-sum.cs) |
-| 2026-09-11 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [group-anagrams.cs](solutions/Medium/014-group-anagrams.cs) |
-| 2026-09-11 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [median-of-two-sorted-arrays.cs](solutions/Hard/019-median-of-two-sorted-arrays.cs) |
