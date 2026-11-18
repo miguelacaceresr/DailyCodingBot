@@ -1,17 +1,20 @@
 {
-  "last_run": "2026-11-17",
+  "last_run": "2026-11-18",
   "used_ids": [
     3,
+    7,
     8,
     10,
     11,
+    14,
     15,
     17,
     19,
     20,
+    21,
     22
   ],
-  "total_solved": 249,
+  "total_solved": 252,
   "history": [
     {
       "date": "2026-08-27",
@@ -2168,6 +2171,32 @@
           "slug": "median-of-two-sorted-arrays",
           "difficulty": "Hard",
           "leetcode_url": "https://leetcode.com/problems/median-of-two-sorted-arrays/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "problems": [
+        {
+          "id": 7,
+          "title": "Maximum Subarray",
+          "slug": "maximum-subarray",
+          "difficulty": "Easy",
+          "leetcode_url": "https://leetcode.com/problems/maximum-subarray/"
+        },
+        {
+          "id": 14,
+          "title": "Group Anagrams",
+          "slug": "group-anagrams",
+          "difficulty": "Medium",
+          "leetcode_url": "https://leetcode.com/problems/group-anagrams/"
+        },
+        {
+          "id": 21,
+          "title": "Trapping Rain Water",
+          "slug": "trapping-rain-water",
+          "difficulty": "Hard",
+          "leetcode_url": "https://leetcode.com/problems/trapping-rain-water/"
         }
       ]
     }
