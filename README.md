@@ -23,14 +23,17 @@ Editá `config.json` para cambiar cuántos ejercicios resolver por día y cómo 
 
 ## Estadísticas
 
-- **Ejercicios resueltos:** 267
-- **Días de ejecución:** 89
-- **Última ejecución:** 2026-11-24
+- **Ejercicios resueltos:** 270
+- **Días de ejecución:** 90
+- **Última ejecución:** 2026-11-25
 
 ## Progreso diario
 
 | Fecha | Problema | Dificultad | Solución |
 |---|---|---|---|
+| 2026-11-25 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [merge-two-sorted-lists.cs](solutions/Easy/005-merge-two-sorted-lists.cs) |
+| 2026-11-25 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [group-anagrams.cs](solutions/Medium/014-group-anagrams.cs) |
+| 2026-11-25 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [median-of-two-sorted-arrays.cs](solutions/Hard/019-median-of-two-sorted-arrays.cs) |
 | 2026-11-24 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [best-time-to-buy-and-sell-stock.cs](solutions/Easy/009-best-time-to-buy-and-sell-stock.cs) |
 | 2026-11-24 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [add-two-numbers.cs](solutions/Medium/011-add-two-numbers.cs) |
 | 2026-11-24 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [merge-k-sorted-lists.cs](solutions/Hard/020-merge-k-sorted-lists.cs) |
@@ -208,6 +211,3 @@ Editá `config.json` para cambiar cuántos ejercicios resolver por día y cómo 
 | 2026-09-26 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [maximum-subarray.cs](solutions/Easy/007-maximum-subarray.cs) |
 | 2026-09-26 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [group-anagrams.cs](solutions/Medium/014-group-anagrams.cs) |
 | 2026-09-26 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [median-of-two-sorted-arrays.cs](solutions/Hard/019-median-of-two-sorted-arrays.cs) |
-| 2026-09-25 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [climbing-stairs.cs](solutions/Easy/008-climbing-stairs.cs) |
-| 2026-09-25 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [longest-substring-without-repeating-characters.cs](solutions/Medium/012-longest-substring-without-repeating-characters.cs) |
-| 2026-09-25 | [N-Queens](https://leetcode.com/problems/n-queens/) | Hard | [n-queens.cs](solutions/Hard/022-n-queens.cs) |
